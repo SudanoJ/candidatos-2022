@@ -1,0 +1,134 @@
+[
+    {
+       "nome":"Ciro Ferreira Gomes",
+       "nome_urna":"Ciro Gomes",
+       "nascimento":"06/11/1957",
+       "cor":"Branca",
+       "sexo":"Homem",
+       "partido":"Partido Democrático Trabalhista",
+       "partido_sigla":"PDT",
+       "numero":12,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/882713/foto.jpg"
+    },
+    {
+       "nome":"Jose Maria Eymael",
+       "nome_urna":"Constituinte Eymael",
+       "nascimento":"02/11/1939",
+       "cor":"Branca",
+       "sexo":"Homem",
+       "partido":"Democracia Cristã",
+       "partido_sigla":"DC",
+       "numero":27,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/914331/foto.jpeg"
+    },
+    {
+       "nome":"Luiz Felipe Chaves D'Avila",
+       "nome_urna":"Felipe D'Avila",
+       "nascimento":"24/08/1963",
+       "cor":"Branca",
+       "sexo":"Homem",
+       "partido":"Partido Novo",
+       "partido_sigla":"NOVO",
+       "numero":30,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/892517/foto.jpg"
+    },
+    {
+       "nome":"Jair Messias Bolsonaro",
+       "nome_urna":"Jair Bolsonaro",
+       "nascimento":"21/03/1955",
+       "cor":"Branca",
+       "sexo":"Homem",
+       "partido":"Partido Liberal",
+       "partido_sigla":"PL",
+       "numero":22,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/908966/foto.jpeg"
+    },
+    {
+       "nome":"Leonardo Péricles Vieira Roque",
+       "nome_urna":"Léo Péricles",
+       "nascimento":"26/08/1981",
+       "cor":"Preto",
+       "sexo":"Homem",
+       "partido":"Unidade Popular",
+       "partido_sigla":"UP",
+       "numero":80,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/884623/foto.jpg"
+    },
+    {
+       "nome":"Luiz Inácio Lula da Silva",
+       "nome_urna":"Lula",
+       "nascimento":"06/10/1945",
+       "cor":"Branco",
+       "sexo":"Homem",
+       "partido":"Partido dos Trabalhadores",
+       "partido_sigla":"PT",
+       "numero":13,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/893498/foto.jpg"
+    },
+    {
+       "nome":"Pablo Henrique Costa Marçal",
+       "nome_urna":"Pablo Marçal",
+       "nascimento":"18/04/1987",
+       "cor":"Branco",
+       "sexo":"Homem",
+       "partido":"Partido Republicano da Ordem Social",
+       "partido_sigla":"PROS",
+       "numero":80,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/891445/foto.jpg"
+    },
+    {
+       "nome":"Kelmon Luis da Silva Souza",
+       "nome_urna":"Padre Kelmon",
+       "nascimento":"21/10/1976",
+       "cor":"Parda",
+       "sexo":"Homem",
+       "partido":"Partido Trabalhista Brasileiro",
+       "partido_sigla":"PTB",
+       "numero":14,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/920502/foto.jpeg"
+    },
+    {
+       "nome":"Simone Nassar Tebet",
+       "nome_urna":"Simone Tebet",
+       "nascimento":"22/02/1970",
+       "cor":"Branca",
+       "sexo":"Mulher",
+       "partido":"Movimento Democrático Brasileiro",
+       "partido_sigla":"MDB",
+       "numero":15,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/899992/foto.jpg"
+    },
+    {
+       "nome":"Sofia Padua Manzano",
+       "nome_urna":"Sofia Manzano",
+       "nascimento":"19/05/1971",
+       "cor":"Branca",
+       "sexo":"Mulher",
+       "partido":"Partido Comunista Brasileiro",
+       "partido_sigla":"PCB",
+       "numero":21,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/890829/foto.jpeg"
+    },
+    {
+       "nome":"Soraya Vieira Thronicke",
+       "nome_urna":"Soraya Thronicke",
+       "nascimento":"01/06/1973",
+       "cor":"Branca",
+       "sexo":"Mulher",
+       "partido":"União Brasil",
+       "partido_sigla":"UNIÃO",
+       "numero":44,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/913738/foto.jpg"
+    },
+    {
+       "nome":"Vera Lucia Pereira da Silva Salgado",
+       "nome_urna":"Vera",
+       "nascimento":"12/09/1967",
+       "cor":"Preta",
+       "sexo":"Mulher",
+       "partido":"Partido Socialista dos Trabalhadores Unificado",
+       "partido_sigla":"PSTU",
+       "numero":16,
+       "imagem":"https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/898012/foto.jpg"
+    }
+ ]
