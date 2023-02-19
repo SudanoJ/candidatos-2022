@@ -4,7 +4,7 @@
 
 ![image](./screenshot.png  "Resultado GET /candidatos")
 
-### Documentação simples:
+## Documentação simples:
 `GET /candidatos` - Retorna uma lista de todos os candidatos.
 
 
